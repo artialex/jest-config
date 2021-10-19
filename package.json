@@ -6,11 +6,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "peerDependencies": {
-    "@types/jest": "26.0.24",
-    "jest": "27.0.6",
-    "ts-jest": "27.0.4"
-  },
   "prettier": "@alextheartisan/prettier-config",
   "devDependencies": {
     "@alextheartisan/prettier-config": "2.0.0"
