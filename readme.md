@@ -1,36 +1,9 @@
 # jest-config
 
-My TypeScript configuration
+My Jest configuration
 
-1. Install
+## Usage
 
-```bash
-npx install-peerdeps @alextheartisan/jest-config
-```
+Use as [`mrm` task](https://github.com/alextheartisan/tasks)
 
-2. Include "jest" key in package.json
-
-```json
-{
-  ...,
-  "jest": {
-    "preset": "@alextheartisan/jest-config"
-  },
-  ...
-}
-```
-
-3. Include "test" scripts
-
-```json
-{
-  ...,
-  "scripts": {
-    ...
-    "test": "jest",
-    "test:watch": "jest --watchAll",
-    ...
-  },
-  ...
-}
-```
+    mrm jest
