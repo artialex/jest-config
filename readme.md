@@ -4,6 +4,6 @@ My Jest configuration
 
 ## Usage
 
-Use as [`mrm` task](https://github.com/alextheartisan/tasks)
+Use as [`plop` task](https://github.com/alextheartisan/tasks)
 
-    mrm jest
+    plop jest
